@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+}
+.wrapper{
+    background-color:white;
+    width:67.9%;
+    height: 100%;
+    box-sizing: border-box;
+    margin-left: 19%;
+}
+.top-box{
+    background-color: grey;
+    width: 96.5%;
+    height:62px;
+}
+.first-box{
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin-top: 20px;
+}
+.second-box{
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom:1px;
+}
+.third-box{
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 12px;
+    margin-bottom:1px;
+}
+.fourth-box{
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 12px;
+    margin-bottom:1px;
+}
+.fifth-box{
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin-bottom:19px;
+}
+.sixth-box{
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 12px;
+    margin-bottom:19px;
+}
+.seventh-box{
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 12px;
+    margin-bottom:19px;
+}
+.eigth-box{
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 12px;
+    margin-bottom:19px;
+}
+.ninth-box{
+    background-color: grey;
+    width: 96.5%;
+    height:62px;
+}
